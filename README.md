@@ -1,6 +1,4 @@
-
 <img width="416" alt="car" src="https://github.com/SanaaObied/Car-Agency-System/assets/160793423/76119736-8947-415d-9d97-50a9421724e9">
-
 <img width="563" alt="car_agency" src="https://github.com/SanaaObied/Car-Agency-System/assets/160793423/2b56cf51-1a61-4495-adc5-9d2df289e1d2">
 <img width="598" alt="car_agency1" src="https://github.com/SanaaObied/Car-Agency-System/assets/160793423/3cb66b4d-5b33-4720-aff8-6c05672312ee">
 <img width="597" alt="car_agency2" src="https://github.com/SanaaObied/Car-Agency-System/assets/160793423/3c82f77b-d97c-4e4f-ad7a-54ac00b49acc">
